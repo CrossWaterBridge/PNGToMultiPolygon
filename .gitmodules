@@ -1,0 +1,3 @@
+[submodule "Vendor/Clipper"]
+	path = Vendor/Clipper
+	url = https://github.com/skyrpex/clipper.git
